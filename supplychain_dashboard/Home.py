@@ -5,7 +5,7 @@ st.markdown("# HP Challenge Supply Chain 💻")
 st.sidebar.markdown("# Home 🎈")
 
 
-image = Image.open("LogoOptiFlow.jpeg")
+image = Image.open("supplychain_dashboard/LogoOptiFlow.jpeg")
 
 st.subheader("Welcome to our project!")
 
